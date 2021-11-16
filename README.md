@@ -1,6 +1,6 @@
 ### Hi, I'm Artur Oscar, a Backend Developer.
 
-- 🖥 A Software Engineer at Doji.uk and fullstack developer at BEDUWEB.IN.
+- 🖥 A Software Engineer.
 - 📚 I'm actualy study Kotlin, React and NodeJS.
 - 🎯 I seek to specialize in software architectures. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoscarsj&label=Profile%20views&color=0e75b6&style=flat" alt="aoscarsj" /> </p>
