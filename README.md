@@ -1,4 +1,4 @@
-### Hi, I'm Artur Oscar, a Backend Developer.
+### Hi, I'm Artur Oscar, a backend developer.
 
 - 🖥 A Software Engineer.
 - 📚 I'm actualy study Kotlin, React and NodeJS.
